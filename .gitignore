@@ -1,0 +1,20 @@
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de compilación
+build/
+dist/
+
+# Datos locales
+*.log
+.env
+registry_backup.json
+
+# Archivos del editor
+.vscode/
